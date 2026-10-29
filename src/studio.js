@@ -1,5 +1,5 @@
 // The lab: a white cyclorama, a measured floor mat with soft planar reflection, and drei-style contact shadows.
-import { THREE } from '../../src/core/engine.js';
+import { THREE } from './core/engine.js';
 import { HorizontalBlurShader } from 'three/examples/jsm/shaders/HorizontalBlurShader.js';
 import { VerticalBlurShader } from 'three/examples/jsm/shaders/VerticalBlurShader.js';
 import { FullScreenQuad } from 'three/examples/jsm/postprocessing/Pass.js';

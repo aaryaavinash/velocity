@@ -1,8 +1,8 @@
-# 07 · Velocity Lab — "See through the shoe"
+# Velocity Lab — "See through the shoe"
 Brand: **Velocity Lab** — launch page for the VX-1 Carbon, a carbon-plated racing trainer.
 
 ## Signature interaction
-**The X-ray lens.** A circular lens follows the cursor. Outside the lens the shoe (`models/velocity/white.glb`) renders as a
+**The X-ray lens.** A circular lens follows the cursor. Outside the lens the shoe (`models/white.glb`) renders as a
 premium product shot; inside it renders in an alternate mode. Render the scene twice (normal + alternate materials) into
 render targets and composite with a circular mask with a refractive rim (slight distortion, chromatic fringe, thin bright ring).
 Modes (click or keys 1–3, label on the lens): X-RAY (fresnel-glow translucent shell + procedural internals: the carbon plate

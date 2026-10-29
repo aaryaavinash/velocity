@@ -1,0 +1,16 @@
+// ORIGINAL (preserved, not deleted — disabled by comment): previous nested paths
+// import { Engine, THREE, normalize, prepModel, damp, clamp, smooth, lerp, studioEnvironment } from '../../src/core/engine.js';
+// import { Assets, sampleSurface, firstMesh } from '../../src/core/assets.js';
+// import { Pointer } from '../../src/core/input.js';
+// import { smoothScroll, gsap, reveal } from '../../src/core/scroll.js';
+// // ORIGINAL (preserved, not deleted — disabled by comment): import { preloader, cursor, magnetic, worldNav } from '../../src/core/ui.js';
+// import { preloader, cursor, magnetic } from '../../src/core/ui.js';
+// import { PlanarReflection } from '../../src/core/reflector.js';
+// const [gw, gb] = await Promise.all([assets.gltf('models/velocity/white.glb'), assets.gltf('models/velocity/black.glb')]);
+// // ORIGINAL (preserved, not deleted — disabled by comment): worldNav('velocity', { theme: 'light', corner: 'bl' });
+// import { THREE } from '../../src/core/engine.js';
+// import { THREE } from '../../src/core/engine.js';
+//   <link rel="stylesheet" href="./examples/velocity/style.css">
+//   <script type="module" src="./examples/velocity/main.js"></script>
+// // ORIGINAL (preserved, not deleted — disabled by comment): import { preloader, cursor, magnetic, worldNav } from './core/ui.js';
+// // ORIGINAL (preserved, not deleted — disabled by comment): worldNav('velocity', { theme: 'light', corner: 'bl' });

@@ -1,6 +1,6 @@
 // The X-ray lens. The shoe is rendered a second time — scissored to the lens, with a real zoom via camera view offset —
 // in one of three alternate modes, then composited over the product shot with a refractive glass rim.
-import { THREE } from '../../src/core/engine.js';
+import { THREE } from './core/engine.js';
 import { Effect, EffectPass } from 'postprocessing';
 import { NOISE, PROFILE, GAIT, PALETTE, PERTURB } from './shaders.js';
 
